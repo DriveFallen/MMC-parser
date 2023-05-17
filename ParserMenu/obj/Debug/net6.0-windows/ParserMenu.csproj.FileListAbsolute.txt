@@ -1,0 +1,339 @@
+C:\Users\nikit\source\repos\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.exe
+C:\Users\nikit\source\repos\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.deps.json
+C:\Users\nikit\source\repos\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.runtimeconfig.json
+C:\Users\nikit\source\repos\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.dll
+C:\Users\nikit\source\repos\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.pdb
+C:\Users\nikit\source\repos\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.FormMain.resources
+C:\Users\nikit\source\repos\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.AssemblyInfo.cs
+C:\Users\nikit\source\repos\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.dll
+C:\Users\nikit\source\repos\ParserMenu\obj\Debug\net6.0-windows\refint\ParserMenu.dll
+C:\Users\nikit\source\repos\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.pdb
+C:\Users\nikit\source\repos\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.genruntimeconfig.cache
+C:\Users\nikit\source\repos\ParserMenu\obj\Debug\net6.0-windows\ref\ParserMenu.dll
+C:\Users\nikit\source\repos\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.dll.config
+C:\Users\nikit\source\repos\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\nikit\source\repos\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\nikit\source\repos\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\nikit\source\repos\ParserMenu\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\nikit\source\repos\ParserMenu\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\nikit\source\repos\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.CopyComplete
+G:\Projects\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\linux\selenium-manager
+G:\Projects\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\macos\selenium-manager
+G:\Projects\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+G:\Projects\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.exe
+G:\Projects\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.dll.config
+G:\Projects\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.deps.json
+G:\Projects\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.runtimeconfig.json
+G:\Projects\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.dll
+G:\Projects\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.pdb
+G:\Projects\ParserMenu\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+G:\Projects\ParserMenu\bin\Debug\net6.0-windows\WebDriver.dll
+G:\Projects\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.AssemblyReference.cache
+G:\Projects\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.FormMain.resources
+G:\Projects\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.GenerateResource.cache
+G:\Projects\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.AssemblyInfoInputs.cache
+G:\Projects\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.AssemblyInfo.cs
+G:\Projects\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.CoreCompileInputs.cache
+G:\Projects\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.CopyComplete
+G:\Projects\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.dll
+G:\Projects\ParserMenu\obj\Debug\net6.0-windows\refint\ParserMenu.dll
+G:\Projects\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.pdb
+G:\Projects\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.genruntimeconfig.cache
+G:\Projects\ParserMenu\obj\Debug\net6.0-windows\ref\ParserMenu.dll
+G:\Projects\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.ChooseEmail.resources
+G:\Projects\ParserMenu\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\Projects\ParserMenu\bin\Debug\net6.0-windows\itextsharp.dll
+G:\Projects\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.deps.json
+G:\Projects\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.runtimeconfig.json
+G:\Projects\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.exe
+G:\Projects\Parser\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\linux\selenium-manager
+G:\Projects\Parser\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\macos\selenium-manager
+G:\Projects\Parser\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+G:\Projects\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.exe
+G:\Projects\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.dll.config
+G:\Projects\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.deps.json
+G:\Projects\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.runtimeconfig.json
+G:\Projects\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.dll
+G:\Projects\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.pdb
+G:\Projects\Parser\ParserMenu\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\Projects\Parser\ParserMenu\bin\Debug\net6.0-windows\itextsharp.dll
+G:\Projects\Parser\ParserMenu\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+G:\Projects\Parser\ParserMenu\bin\Debug\net6.0-windows\WebDriver.dll
+G:\Projects\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.dll
+G:\Projects\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.pdb
+G:\Projects\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.dll.config
+G:\Projects\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.AssemblyReference.cache
+G:\Projects\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.ChooseEmail.resources
+G:\Projects\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.FormMain.resources
+G:\Projects\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.GenerateResource.cache
+G:\Projects\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.AssemblyInfoInputs.cache
+G:\Projects\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.AssemblyInfo.cs
+G:\Projects\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.CoreCompileInputs.cache
+G:\Projects\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.CopyComplete
+G:\Projects\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.dll
+G:\Projects\Parser\ParserMenu\obj\Debug\net6.0-windows\refint\ParserMenu.dll
+G:\Projects\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.pdb
+G:\Projects\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.genruntimeconfig.cache
+G:\Projects\Parser\ParserMenu\obj\Debug\net6.0-windows\ref\ParserMenu.dll
+C:\Users\Vlad\Desktop\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.ChooseEmail.resources
+C:\Users\Vlad\Desktop\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.FormMain.resources
+C:\Users\Vlad\Desktop\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.dll
+C:\Users\Vlad\Desktop\Parser\ParserMenu\obj\Debug\net6.0-windows\refint\ParserMenu.dll
+C:\Users\Vlad\Desktop\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.pdb
+C:\Users\Vlad\Desktop\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.deps.json
+C:\Users\Vlad\Desktop\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.runtimeconfig.json
+C:\Users\Vlad\Desktop\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.exe
+C:\Users\Vlad\Desktop\Parser\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\Vlad\Desktop\Parser\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\Vlad\Desktop\Parser\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\Vlad\Desktop\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.exe
+C:\Users\Vlad\Desktop\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.dll.config
+C:\Users\Vlad\Desktop\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.deps.json
+C:\Users\Vlad\Desktop\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.runtimeconfig.json
+C:\Users\Vlad\Desktop\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.dll
+C:\Users\Vlad\Desktop\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.pdb
+C:\Users\Vlad\Desktop\Parser\ParserMenu\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Vlad\Desktop\Parser\ParserMenu\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\Vlad\Desktop\Parser\ParserMenu\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Vlad\Desktop\Parser\ParserMenu\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\Vlad\Desktop\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.dll
+C:\Users\Vlad\Desktop\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.pdb
+C:\Users\Vlad\Desktop\Parser\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.dll.config
+C:\Users\Vlad\Desktop\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.CopyComplete
+C:\Users\Vlad\Desktop\Parser\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\Parser\ParserMenu\obj\Debug\net6.0-windows\ref\ParserMenu.dll
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\linux\selenium-manager
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\macos\selenium-manager
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.deps.json
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.runtimeconfig.json
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.exe
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.exe
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.dll.config
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.deps.json
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.runtimeconfig.json
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.dll
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.pdb
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\itextsharp.dll
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\WebDriver.dll
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.dll
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.pdb
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.dll.config
+G:\Projects\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.AssemblyReference.cache
+G:\Projects\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.ChooseEmail.resources
+G:\Projects\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.FormMain.resources
+G:\Projects\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.GenerateResource.cache
+G:\Projects\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.AssemblyInfoInputs.cache
+G:\Projects\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.AssemblyInfo.cs
+G:\Projects\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.CoreCompileInputs.cache
+G:\Projects\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.CopyComplete
+G:\Projects\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.dll
+G:\Projects\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\refint\ParserMenu.dll
+G:\Projects\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.pdb
+G:\Projects\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.genruntimeconfig.cache
+G:\Projects\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ref\ParserMenu.dll
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\PdfSharp.Charting.dll
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\PdfSharp.dll
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\de\PdfSharp.Charting.resources.dll
+G:\Projects\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\de\PdfSharp.resources.dll
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.ChooseEmail.resources
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.FormMain.resources
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.dll
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\refint\ParserMenu.dll
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.pdb
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.deps.json
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.runtimeconfig.json
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.exe
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.exe
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.dll.config
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.deps.json
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.runtimeconfig.json
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.dll
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.pdb
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\PdfSharp.Charting.dll
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\PdfSharp.dll
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\de\PdfSharp.resources.dll
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.dll
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.pdb
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.dll.config
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.CopyComplete
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\Parser 1.1\ParserMenu\obj\Debug\net6.0-windows\ref\ParserMenu.dll
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\linux\selenium-manager
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\macos\selenium-manager
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.deps.json
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.runtimeconfig.json
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.exe
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.exe
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.dll.config
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.deps.json
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.runtimeconfig.json
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.dll
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.pdb
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\itextsharp.dll
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\PdfSharp.Charting.dll
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\PdfSharp.dll
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\WebDriver.dll
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\de\PdfSharp.Charting.resources.dll
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\de\PdfSharp.resources.dll
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.dll
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.pdb
+G:\Projects\Parser 1.2\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.dll.config
+G:\Projects\Parser 1.2\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.AssemblyReference.cache
+G:\Projects\Parser 1.2\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.ChooseEmail.resources
+G:\Projects\Parser 1.2\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.FormMain.resources
+G:\Projects\Parser 1.2\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.GenerateResource.cache
+G:\Projects\Parser 1.2\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Parser 1.2\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.AssemblyInfoInputs.cache
+G:\Projects\Parser 1.2\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.AssemblyInfo.cs
+G:\Projects\Parser 1.2\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.CoreCompileInputs.cache
+G:\Projects\Parser 1.2\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.CopyComplete
+G:\Projects\Parser 1.2\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.dll
+G:\Projects\Parser 1.2\ParserMenu\obj\Debug\net6.0-windows\refint\ParserMenu.dll
+G:\Projects\Parser 1.2\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.pdb
+G:\Projects\Parser 1.2\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.genruntimeconfig.cache
+G:\Projects\Parser 1.2\ParserMenu\obj\Debug\net6.0-windows\ref\ParserMenu.dll
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.deps.json
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.runtimeconfig.json
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.exe
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.exe
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.dll.config
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.deps.json
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.runtimeconfig.json
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.dll
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.pdb
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\PdfSharp.Charting.dll
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\PdfSharp.dll
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\de\PdfSharp.resources.dll
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.dll
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.pdb
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.dll.config
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.AssemblyReference.cache
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.ChooseEmail.resources
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.FormMain.resources
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.GenerateResource.cache
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.AssemblyInfoInputs.cache
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.AssemblyInfo.cs
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.CoreCompileInputs.cache
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.CopyComplete
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.dll
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\refint\ParserMenu.dll
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.pdb
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.genruntimeconfig.cache
+C:\Users\DDKovalenko\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ref\ParserMenu.dll
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.deps.json
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.runtimeconfig.json
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.exe
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.exe
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.dll.config
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.deps.json
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.runtimeconfig.json
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.dll
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.pdb
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\PdfSharp.Charting.dll
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\PdfSharp.dll
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\de\PdfSharp.resources.dll
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.dll
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.pdb
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.dll.config
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.AssemblyReference.cache
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.ChooseEmail.resources
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.FormMain.resources
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.GenerateResource.cache
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.AssemblyInfoInputs.cache
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.AssemblyInfo.cs
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.CoreCompileInputs.cache
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.CopyComplete
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.dll
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\refint\ParserMenu.dll
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.pdb
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.genruntimeconfig.cache
+C:\Users\NZHezhu\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ref\ParserMenu.dll
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.deps.json
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.runtimeconfig.json
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.exe
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.exe
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.dll.config
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.deps.json
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.runtimeconfig.json
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.dll
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserMenu.pdb
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\PdfSharp.Charting.dll
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\PdfSharp.dll
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\de\PdfSharp.resources.dll
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.dll
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.pdb
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\bin\Debug\net6.0-windows\ParserProgram.dll.config
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.ChooseEmail.resources
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.FormMain.resources
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.csproj.CopyComplete
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.dll
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\refint\ParserMenu.dll
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.pdb
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ParserMenu.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\MMC-master\ParserMenu\obj\Debug\net6.0-windows\ref\ParserMenu.dll
